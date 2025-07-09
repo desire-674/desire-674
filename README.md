@@ -1,5 +1,5 @@
 
-[![MasterHead](./)](#)
+[![MasterHead](./mario.gif)](#)
 
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 
